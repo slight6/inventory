@@ -1,0 +1,6 @@
+
+*.db
+src/.classpath
+src/.project
+src/.gitignore
+
